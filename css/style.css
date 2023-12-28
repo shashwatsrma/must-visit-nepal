@@ -183,3 +183,66 @@ footer{
 .fbox ul li a:hover{
     color:steelblue;
 }
+#content h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: red;
+    margin-bottom: 10px;
+
+
+}
+.days{
+    background-color: steelblue;
+    color: white;
+    padding: 10px 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+.difficulties{
+    background-color: rgb(126, 36, 134);
+    color: white;
+    padding: 10px 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+.nature{
+    background-color: rgb(74, 189, 42);
+    color: white;
+    padding: 10px 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+#content img{
+    padding-left: 0px;
+    width: 100%;
+    display: block;
+    text-align: left;
+    margin: 20px ;
+}
+
+.itinerary h4 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: red;
+    margin-bottom: 10px;
+}
+.itinerary p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+.book{
+    background-color: purple;
+    color: white;
+    padding:10px 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 13px;
+    display: inline-block;
+    margin: 20px;
+}
+.contact_boxes{
+    display: flex;
+}
+.map,.form{
+    width: 50%;
+    margin: 20px;
+}
